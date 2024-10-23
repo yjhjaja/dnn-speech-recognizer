@@ -1,1 +1,0 @@
-# dnn-speech-recognizer
